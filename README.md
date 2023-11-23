@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am a speech therapist, master in Cognitive Neuroscience and Early Intervention, and currently a PhD student in Psychology.<br><br>My interests are linguistic pathologies, learning difficulties, prevention models and advanced statistical methods.<br><br>No matter how much you know about your area of research, you will always need to know about statistics.<br><br>I want to use my github to upload my notes on statistics in R and activities for other students. 
+I am a speech therapist, master in Cognitive Neuroscience and Early Intervention, and currently a PhD student in Psychology.
+My interests are linguistic pathologies, learning difficulties, prevention models and advanced statistical methods.
+No matter how much you know about your area of research, you will always need to know about statistics.
+I want to use my github to upload my notes on statistics in R and activities for other students. 
 
 
 ## 🌐 Socials:
