@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi there 👋:
 I am a speech therapist, master in Cognitive Neuroscience and Early Intervention, and currently a PhD student in Psychology.
 My interests are linguistic pathologies, learning difficulties, prevention models and advanced statistical methods.
 No matter how much you know about your area of research, you will always need to know about statistics.
